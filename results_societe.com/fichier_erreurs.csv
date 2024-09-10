@@ -1,0 +1,70 @@
+num_page,Titre,SIREN,SIRET,Téléphone,Email,Qualifications, VEN, ANT,Maîtrise Qualité, SPV, EP, IRVE, CET, AC, CFMGTI, MGTI, CHE, CFLCPT, PAC, MIE, BR, LCPT,address,code_postal,ville,index_orig,effectif,capital,gerant,error
+2,SNEF,56800659,5680065901393,0781731395,carole.bauche@snef.fr, MIE &&  MGTI &&  CFMGTI &&  IRVE,0,0,0,0,0,1,0,0,1,1,0,0,0,1,0,0,3 CHEMIN DE DATURAS CS 60116,31201,TOULOUSE CEDEX 2,10,,,,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//*[@id=""result_deno_societe""]/div/div/a""}
+  (Session info: chrome=122.0.6261.69); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x563e1c40e793 <unknown>
+#1 0x563e1c1021c6 <unknown>
+#2 0x563e1c14d358 <unknown>
+#3 0x563e1c14d411 <unknown>
+#4 0x563e1c190934 <unknown>
+#5 0x563e1c16f3fd <unknown>
+#6 0x563e1c18ddd9 <unknown>
+#7 0x563e1c16f173 <unknown>
+#8 0x563e1c1402d3 <unknown>
+#9 0x563e1c140c9e <unknown>
+#10 0x563e1c3d28cb <unknown>
+#11 0x563e1c3d6745 <unknown>
+#12 0x563e1c3bf2e1 <unknown>
+#13 0x563e1c3d72d2 <unknown>
+#14 0x563e1c3a317f <unknown>
+#15 0x563e1c3fcdc8 <unknown>
+#16 0x563e1c3fcfc3 <unknown>
+#17 0x563e1c40d944 <unknown>
+#18 0x7f605caa8ac3 <unknown>
+"
+2,SNEF,56800659,5680065900346,02 40 63 79 79,nantes@snef.fr, MGTI &&  IRVE,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,21 RUE BOBBY SANDS BP 90087,44814,SAINT HERBLAIN CEDEX,11,,,,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//*[@id=""result_deno_societe""]/div/div/a""}
+  (Session info: chrome=122.0.6261.69); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5644df7cf793 <unknown>
+#1 0x5644df4c31c6 <unknown>
+#2 0x5644df50e358 <unknown>
+#3 0x5644df50e411 <unknown>
+#4 0x5644df551934 <unknown>
+#5 0x5644df5303fd <unknown>
+#6 0x5644df54edd9 <unknown>
+#7 0x5644df530173 <unknown>
+#8 0x5644df5012d3 <unknown>
+#9 0x5644df501c9e <unknown>
+#10 0x5644df7938cb <unknown>
+#11 0x5644df797745 <unknown>
+#12 0x5644df7802e1 <unknown>
+#13 0x5644df7982d2 <unknown>
+#14 0x5644df76417f <unknown>
+#15 0x5644df7bddc8 <unknown>
+#16 0x5644df7bdfc3 <unknown>
+#17 0x5644df7ce944 <unknown>
+#18 0x7f305334bac3 <unknown>
+"
+8,SNEF AGENCE DE BLOIS,56800659,5680065900866,02 54 42 19 99,blois@snef.fr, MGTI &&  LCPT &&  IRVE,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,150 RUE LE VERRIER ZI,41350,VINEUIL,70,,,,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//*[@id=""result_deno_societe""]/div/div/a""}
+  (Session info: chrome=122.0.6261.69); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x56363d333793 <unknown>
+#1 0x56363d0271c6 <unknown>
+#2 0x56363d072358 <unknown>
+#3 0x56363d072411 <unknown>
+#4 0x56363d0b5934 <unknown>
+#5 0x56363d0943fd <unknown>
+#6 0x56363d0b2dd9 <unknown>
+#7 0x56363d094173 <unknown>
+#8 0x56363d0652d3 <unknown>
+#9 0x56363d065c9e <unknown>
+#10 0x56363d2f78cb <unknown>
+#11 0x56363d2fb745 <unknown>
+#12 0x56363d2e42e1 <unknown>
+#13 0x56363d2fc2d2 <unknown>
+#14 0x56363d2c817f <unknown>
+#15 0x56363d321dc8 <unknown>
+#16 0x56363d321fc3 <unknown>
+#17 0x56363d332944 <unknown>
+#18 0x7f8507a77ac3 <unknown>
+"

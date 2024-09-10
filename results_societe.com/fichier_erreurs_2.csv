@@ -1,0 +1,119 @@
+num_page,Titre,SIREN,SIRET,Téléphone,Email,Qualifications, VEN, ANT,Maîtrise Qualité, SPV, EP, IRVE, CET, AC, CFMGTI, MGTI, CHE, CFLCPT, PAC, MIE, BR, LCPT,address,code_postal,ville,index_orig,effectif,capital,gerant,error
+21,VELECE,537788796,53778879600028,07 49 90 91 55,velece33@gmail.com, IRVE,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,4 RUE GUSTAVE DUBOURG APPARTEMENT 8,33127,MARTIGNAS-SUR-JALLE,203,,,,False
+21,GEFFARD ELEC,788483204,78848320400012,06 98 53 61 10,geffard.elec@gmail.com, IRVE,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2 IMPASSE DU PUITS MIAURAY,79260,ROMANS,204,,,,False
+21,BACHATI LAHCEN,983150624,98315062400010,0611932899,lahcen1321@hotmail.fr, IRVE,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,130 RUE LOUIS PETIT,59220,DENAIN,209,,,,False
+22,SYSUR,900836677,90083667700022,0664814599,sysur.pro@gmail.com, IRVE,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,24 RUE DES DEUX PONTS,34150,GIGNAC,218,,,,False
+23,DUHAMEL MARC- PRIME TECH SERVICES,952707248,95270724800011,0612040607,primetechservices95@gmail.com, IRVE,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,10 RUE DES OUCHES,95410,GROSLAY,225,,,,False
+23,L.I.L_ELEC,831556071,83155607100015,0634323376,lilelec59@gmail.com, LCPT &&  IRVE,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1 SQUARE ISABELLE CLAEYS,59116,HOUPLINES,226,,,,False
+23,ELECTRICIEN DU GENEVOIS,981724990,98172499000016,06 02 04 42 02,contact@electriciendugenevois.fr, IRVE,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,4 RUE DE L INDUSTRIE BATIMENT C,74160,SAINT-JULIEN-EN-GENEVOIS,229,,,,False
+24,EIRL ERIC VOULOUZAN ENTREPRISE AEV,822342895,82234289500015,0613076000,evoulouzan@gmail.com, IRVE,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,8 RÉSIDENCE LES HAUTS DE BEAUSOLEI,13320,BOUC-BEL-AIR,234,,,,False
+24,ALT' ELEC,905079968,90507996800012,06 52 55 78 18,ALT.ELEC@HOTMAIL.COM, IRVE,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3 IMPASSE DES PRES RIANTS,74150,RUMILLY,237,,,,False
+24,1PEC ENERGY,844150292,84415029200010,0647100051,1pec.energy@gmail.com, IRVE,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,4 RUE BARTOLOME DE LAS CASAS,21800,QUETIGNY,239,,,,False
+25,ALEXANDRE WIRTH,439079443,43907944300065,0608663231,alexandrewirth@yahoo.fr, IRVE,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,17 SQUARE DE L ERMITAGE 17 square de l ermitage,59800,LILLE,246,,,,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//*[@id=""result_deno_societe""]/div/div/a""}
+  (Session info: chrome=122.0.6261.69); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x556ae460a793 <unknown>
+#1 0x556ae42fe1c6 <unknown>
+#2 0x556ae4349358 <unknown>
+#3 0x556ae4349411 <unknown>
+#4 0x556ae438c934 <unknown>
+#5 0x556ae436b3fd <unknown>
+#6 0x556ae4389dd9 <unknown>
+#7 0x556ae436b173 <unknown>
+#8 0x556ae433c2d3 <unknown>
+#9 0x556ae433cc9e <unknown>
+#10 0x556ae45ce8cb <unknown>
+#11 0x556ae45d2745 <unknown>
+#12 0x556ae45bb2e1 <unknown>
+#13 0x556ae45d32d2 <unknown>
+#14 0x556ae459f17f <unknown>
+#15 0x556ae45f8dc8 <unknown>
+#16 0x556ae45f8fc3 <unknown>
+#17 0x556ae4609944 <unknown>
+#18 0x7f7311602ac3 <unknown>
+"
+25,ALBANO MATTHIEU,922919568,92291956800019,0785986870,albano.matthieu@gmail.com, IRVE,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,495 AVENUE DE L ELISA RES BELLEVUE,83100,TOULON,247,,,,False
+26,JD'ELEC,520324450,52032445000029,0783127228,jd.elec@free.fr, IRVE,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,20 RUE LE PIMONT,10190,FONTVANNES,251,,,,False
+26,H-ELEC,949429328,94942932800014,0786461472,jordan.helec@gmail.com, IRVE,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,5 RUE DU MARAIS ERIN,62134,ERIN,254,,,,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//*[@id=""result_deno_societe""]/div/div/a""}
+  (Session info: chrome=122.0.6261.69); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5639f2fea793 <unknown>
+#1 0x5639f2cde1c6 <unknown>
+#2 0x5639f2d29358 <unknown>
+#3 0x5639f2d29411 <unknown>
+#4 0x5639f2d6c934 <unknown>
+#5 0x5639f2d4b3fd <unknown>
+#6 0x5639f2d69dd9 <unknown>
+#7 0x5639f2d4b173 <unknown>
+#8 0x5639f2d1c2d3 <unknown>
+#9 0x5639f2d1cc9e <unknown>
+#10 0x5639f2fae8cb <unknown>
+#11 0x5639f2fb2745 <unknown>
+#12 0x5639f2f9b2e1 <unknown>
+#13 0x5639f2fb32d2 <unknown>
+#14 0x5639f2f7f17f <unknown>
+#15 0x5639f2fd8dc8 <unknown>
+#16 0x5639f2fd8fc3 <unknown>
+#17 0x5639f2fe9944 <unknown>
+#18 0x7f9fd9f87ac3 <unknown>
+"
+26,VIC ELEC,812069797,81206979700023,0664544201,Vic-elec@outlook.fr, IRVE,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,36 Rue de Séli,73350,CHAMPAGNY-EN-VANOISE,256,,,,False
+27,EI DENIAU LUC / TMDELEC,898200357,89820035700017,0607199198,tmdelec@outlook.com, IRVE,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,8 RUE LA MAISON LUREAU,37510,VILLANDRY,261,,,,False
+27,MYGREENERGY,982046492,98204649200012,0627720464,mygreenergy.irve@gmail.com, IRVE,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,22 BIS RUE DU DOCTEUR POTAIN,75019,PARIS 19,263,,,,"Message: stale element reference: stale element not found
+  (Session info: chrome=122.0.6261.69); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x55d4cf144793 <unknown>
+#1 0x55d4cee381c6 <unknown>
+#2 0x55d4cee48105 <unknown>
+#3 0x55d4cee3dedc <unknown>
+#4 0x55d4cee3c2f1 <unknown>
+#5 0x55d4cee3f32b <unknown>
+#6 0x55d4cee3f3cc <unknown>
+#7 0x55d4cee84f12 <unknown>
+#8 0x55d4cee780e1 <unknown>
+#9 0x55d4ceea53d2 <unknown>
+#10 0x55d4cee77bd8 <unknown>
+#11 0x55d4ceea559e <unknown>
+#12 0x55d4ceec3dd9 <unknown>
+#13 0x55d4ceea5173 <unknown>
+#14 0x55d4cee762d3 <unknown>
+#15 0x55d4cee76c9e <unknown>
+#16 0x55d4cf1088cb <unknown>
+#17 0x55d4cf10c745 <unknown>
+#18 0x55d4cf0f52e1 <unknown>
+#19 0x55d4cf10d2d2 <unknown>
+#20 0x55d4cf0d917f <unknown>
+#21 0x55d4cf132dc8 <unknown>
+#22 0x55d4cf132fc3 <unknown>
+#23 0x55d4cf143944 <unknown>
+#24 0x7f950d459ac3 <unknown>
+"
+27,MARCHAND FABRICE,981269921,98126992100012,0614758743,mfelec73@gmail.com, IRVE,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,199 IMPASSE DE LA FERME,73420,DRUMETTAZ-CLARAFOND,265,,,,False
+27,NICOLAS GOURGON,910113661,91011366100029,07 56 96 60 50,nicolas.gourgon@ngelec.fr, IRVE,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,25 RUE DE LA PICAUDIERE,79410,SAINT-GELAIS,268,,,,False
+28,AUBENAS ELECTRICITÉ GÉNÉRALE,913950788,91395078800012,06 06 74 27 04,aubenas.electricite@gmail.com, IRVE,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,238 rue de Grusseille,07200,SAINT-PRIVAT,270,,,,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//*[@id=""result_deno_societe""]/div/div/a""}
+  (Session info: chrome=122.0.6261.69); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x55be539bb793 <unknown>
+#1 0x55be536af1c6 <unknown>
+#2 0x55be536fa358 <unknown>
+#3 0x55be536fa411 <unknown>
+#4 0x55be5373d934 <unknown>
+#5 0x55be5371c3fd <unknown>
+#6 0x55be5373add9 <unknown>
+#7 0x55be5371c173 <unknown>
+#8 0x55be536ed2d3 <unknown>
+#9 0x55be536edc9e <unknown>
+#10 0x55be5397f8cb <unknown>
+#11 0x55be53983745 <unknown>
+#12 0x55be5396c2e1 <unknown>
+#13 0x55be539842d2 <unknown>
+#14 0x55be5395017f <unknown>
+#15 0x55be539a9dc8 <unknown>
+#16 0x55be539a9fc3 <unknown>
+#17 0x55be539ba944 <unknown>
+#18 0x7f5e07b5bac3 <unknown>
+"
+28,JAVOUREZ EI,838127157,83812715700017,0768419072,frederic.javourez@gmail.com, IRVE,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,46 RUE ETIENNE GROS,69630,CHAPONOST,277,,,,False
+29,DEPANLIGHT,490404951,49040495100025,06 85 02 38 91,VIGGEORGES@YAHOO.FR, IRVE,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1602 RUE AUDIERE,76770,MALAUNAY,285,,,,False
+30,ERTHALEC33,524434958,52443495800012,0699793551,erthalec33@gmail.com, IRVE,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6 RUE VENUS SQUARE D ARIANE,33185,LE HAILLAN,290,,,,False
+30,MONSIEUR TOM LEGROS,918626037,91862603700017,0667320458,contact@telec51.com, IRVE,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,11 ALL JEAN DECHAMPS,51140,MUIZON,293,,,,False
