@@ -18,22 +18,22 @@ services:
   #     - ollama_hajy8_grimas_project
   #   command: ["python", "./main.py"]
 
-  jupyter_hajy8_grimas_project1:
-    build:
-      context: .
-      dockerfile: ./Dockerfile
-    container_name: jupyter-hajy8_grimas-project1
-    environment:
-      - JUPYTER_TOKEN=99
-    restart: always
-    ports:
-     - 11111:8888
-    networks:
-     - default
-    # volumes:
-    #  - /home/abdelghafour.mouhsine/jupyter/hajy8_grimas_Project_Scraping_Parts_1:/home/jovyan/work
-    depends_on:
-     - selenium_hub_hajy8_grimas_project1
+  # jupyter_hajy8_grimas_project1:
+  #   build:
+  #     context: .
+  #     dockerfile: ./Dockerfile
+  #   container_name: jupyter-hajy8_grimas-project1
+  #   environment:
+  #     - JUPYTER_TOKEN=99
+  #   restart: always
+  #   ports:
+  #    - 11111:8888
+  #   networks:
+  #    - default
+  #   # volumes:
+  #   #  - /home/abdelghafour.mouhsine/jupyter/hajy8_grimas_Project_Scraping_Parts_1:/home/jovyan/work
+  #   depends_on:
+  #    - selenium_hub_hajy8_grimas_project1
       
   chrome_1_hajy8_grimas_project1:
     image: selenium/node-chrome:4.18.1-20240224
@@ -70,43 +70,6 @@ services:
       - SE_EVENT_BUS_SUBSCRIBE_PORT=4443
       - SE_NODE_OVERRIDE_MAX_SESSIONS=true
       - SE_NODE_MAX_SESSIONS=20
-
-  chrome_4_hajy8_grimas_project1:
-    image: selenium/node-chrome:4.18.1-20240224
-    shm_size: 2gb
-    depends_on:
-      - selenium_hub_hajy8_grimas_project1
-    environment:
-      - SE_EVENT_BUS_HOST=selenium_hub_hajy8_grimas_project1
-      - SE_EVENT_BUS_PUBLISH_PORT=4442
-      - SE_EVENT_BUS_SUBSCRIBE_PORT=4443
-      - SE_NODE_OVERRIDE_MAX_SESSIONS=true
-      - SE_NODE_MAX_SESSIONS=20
-
-  chrome_5_hajy8_grimas_project1:
-    image: selenium/node-chrome:4.18.1-20240224
-    shm_size: 2gb
-    depends_on:
-      - selenium_hub_hajy8_grimas_project1
-    environment:
-      - SE_EVENT_BUS_HOST=selenium_hub_hajy8_grimas_project1
-      - SE_EVENT_BUS_PUBLISH_PORT=4442
-      - SE_EVENT_BUS_SUBSCRIBE_PORT=4443
-      - SE_NODE_OVERRIDE_MAX_SESSIONS=true
-      - SE_NODE_MAX_SESSIONS=20
-      
-  chrome_6_hajy8_grimas_project1:
-    image: selenium/node-chrome:4.18.1-20240224
-    shm_size: 2gb
-    depends_on:
-      - selenium_hub_hajy8_grimas_project1
-    environment:
-      - SE_EVENT_BUS_HOST=selenium_hub_hajy8_grimas_project1
-      - SE_EVENT_BUS_PUBLISH_PORT=4442
-      - SE_EVENT_BUS_SUBSCRIBE_PORT=4443
-      - SE_NODE_OVERRIDE_MAX_SESSIONS=true
-      - SE_NODE_MAX_SESSIONS=20
-
   
   selenium_hub_hajy8_grimas_project1:
     image: selenium/hub:4.18.1-20240224
